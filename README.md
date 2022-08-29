@@ -1,6 +1,6 @@
 I’m Eruanga Faith.
 
-Just on a low building my coding skills
+The sky is the bouncing point
 
 <!---
 Eruanga/Eruanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
